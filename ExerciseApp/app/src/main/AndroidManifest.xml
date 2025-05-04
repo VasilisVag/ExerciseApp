@@ -18,6 +18,12 @@
         android:theme="@style/Theme.Boilerplate"
         tools:targetApi="31">
 
+        <activity android:name="com.example.ExerciseApp.LoginActivity" />
+        <activity android:name="com.example.ExerciseApp.RegisterActivity" />
+        <activity android:name="com.example.ExerciseApp.ProfileActivity" />
+        <activity android:name="com.example.ExerciseApp.WorkoutActivity" />
+        <activity android:name="com.example.ExerciseApp.SettingsActivity" />
+        <activity android:name="com.example.ExerciseApp.ScannerActivity" />
 
         <activity android:name="com.example.ExerciseApp.MainActivity"
             android:exported="true">
